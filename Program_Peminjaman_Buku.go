@@ -163,7 +163,7 @@ func main() {
 		fmt.Println("6. Keluar dari program")
 
 		var choice int
-		fmt.Println("===========================================================================")
+		fmt.Println("============================================================================")
 		fmt.Print("---- Pilih menu:")
 		fmt.Scanln(&choice)
 
